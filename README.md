@@ -18,7 +18,7 @@ Using Markdown because JIRA would be overkill
 
 #### App Structure, etc
 - [ ] Logo and favicon
-- [ ] Set up deployment to GH pages
+- [x] Set up deployment to GH pages
 - [ ] install tailwind
 - [ ] add shadcn
   - [ ] install
